@@ -1,0 +1,5 @@
+export default {
+  API_KEY: 'API_KEY',
+
+  SUB_PURCHASER_INFO: 'SUB_PURCHASER_INFO',
+};
