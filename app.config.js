@@ -9,7 +9,7 @@ export default {
     icon: "./assets/images/icon.png",
     scheme: "dynomanage",
     userInterfaceStyle: "light",
-    newArchEnabled: false,
+    newArchEnabled: true,
     ios: {
       supportsTablet: false,
       bundleIdentifier: "com.kolosek.herokumng",
