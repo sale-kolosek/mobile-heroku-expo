@@ -31,7 +31,6 @@ export default {
           backgroundColor: "#79589F",
         },
       ],
-      "expo-updates",
     ],
     extra: {
       API_URL: process.env.API_URL,
@@ -42,9 +41,6 @@ export default {
       "eas": {
         "projectId": "d84978b2-a814-48a9-8528-6bec38d6a2ac"
       }
-    },
-    updates: {
-      url: "",
     },
   },
 }
